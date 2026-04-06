@@ -1,0 +1,39 @@
+Day,Type,Name,Address or Query,Google Maps URL,Notes
+Apr 5,Hotel,SpringHill Suites Las Vegas Airport,"6590 S Decatur Blvd, Las Vegas, NV",https://www.google.com/maps/search/?api=1&query=6590%20S%20Decatur%20Blvd%2C%20Las%20Vegas%2C%20NV,Arrival night hotel
+Apr 6,Hotel,Zion Park Motel,"865 Zion Park Blvd, Springdale, UT",https://www.google.com/maps/search/?api=1&query=865%20Zion%20Park%20Blvd%2C%20Springdale%2C%20UT,Zion hotel
+Apr 6,Hike,Riverside Walk,"Riverside Walk Zion National Park, Springdale, UT",https://www.google.com/maps/search/?api=1&query=Riverside%20Walk%20Zion%20National%20Park%2C%20Springdale%2C%20UT,Main Zion walk
+Apr 6,Hike,Pa'rus Trail,"Pa'rus Trail Zion National Park, Springdale, UT",https://www.google.com/maps/search/?api=1&query=Pa%27rus%20Trail%20Zion%20National%20Park%2C%20Springdale%2C%20UT,Sunset option
+Apr 6,Food,Thai Sapa,"Thai Sapa Springdale UT",https://www.google.com/maps/search/?api=1&query=Thai%20Sapa%20Springdale%20UT,Best practical fit
+Apr 6,Food,Spotted Dog Cafe,"Spotted Dog Cafe Springdale UT",https://www.google.com/maps/search/?api=1&query=Spotted%20Dog%20Cafe%20Springdale%20UT,Classic/local-feel option
+Apr 6,Food,Bit & Spur,"Bit and Spur Springdale UT",https://www.google.com/maps/search/?api=1&query=Bit%20and%20Spur%20Springdale%20UT,Classic/local-feel option
+Apr 7,Hotel,Sleep Inn & Suites Page at Lake Powell,"673 Scenic View Rd, Page, AZ",https://www.google.com/maps/search/?api=1&query=673%20Scenic%20View%20Rd%2C%20Page%2C%20AZ,Page hotel
+Apr 7,Hike,Emerald Pools,"Emerald Pools Trailhead Zion National Park, Springdale, UT",https://www.google.com/maps/search/?api=1&query=Emerald%20Pools%20Trailhead%20Zion%20National%20Park%2C%20Springdale%2C%20UT,Tuesday morning option
+Apr 7,Viewpoint,Lake Powell / Wahweap viewpoint,"Wahweap Overlook, Page, AZ",https://www.google.com/maps/search/?api=1&query=Wahweap%20Overlook%2C%20Page%2C%20AZ,Afternoon scenic stop
+Apr 7,Viewpoint,Glen Canyon Dam Overlook,"Glen Canyon Dam Overlook, Page, AZ",https://www.google.com/maps/search/?api=1&query=Glen%20Canyon%20Dam%20Overlook%2C%20Page%2C%20AZ,Afternoon scenic stop
+Apr 7,Viewpoint,Horseshoe Bend,"Horseshoe Bend Overlook, Page, AZ",https://www.google.com/maps/search/?api=1&query=Horseshoe%20Bend%20Overlook%2C%20Page%2C%20AZ,Sunset plan
+Apr 7,Food,Thai Chili 2 Go,"Thai Chili 2 Go Page AZ",https://www.google.com/maps/search/?api=1&query=Thai%20Chili%202%20Go%20Page%20AZ,Best practical fit
+Apr 7,Food,Chothika Thai Cuisine,"Chothika Thai Cuisine Page AZ",https://www.google.com/maps/search/?api=1&query=Chothika%20Thai%20Cuisine%20Page%20AZ,Another good option
+Apr 8,Activity,Ken's Tours,"Ken's Tours Lower Antelope Canyon, Page, AZ",https://www.google.com/maps/search/?api=1&query=Ken%27s%20Tours%20Lower%20Antelope%20Canyon%2C%20Page%2C%20AZ,Tour check-in
+Apr 8,Activity,Lower Antelope Canyon,"Lower Antelope Canyon, Page, AZ",https://www.google.com/maps/search/?api=1&query=Lower%20Antelope%20Canyon%2C%20Page%2C%20AZ,Deluxe tour
+Apr 8,Stop,Navajo Bridge / Marble Canyon,"Navajo Bridge, Marble Canyon, AZ",https://www.google.com/maps/search/?api=1&query=Navajo%20Bridge%2C%20Marble%20Canyon%2C%20AZ,Optional scenic add-on
+Apr 8,Hotel,Cameron Trading Post Hotel,"Cameron Trading Post Hotel, Cameron, AZ",https://www.google.com/maps/search/?api=1&query=Cameron%20Trading%20Post%20Hotel%2C%20Cameron%2C%20AZ,Wednesday hotel
+Apr 8,Food,Cameron Trading Post restaurant,"Cameron Trading Post Restaurant Cameron AZ",https://www.google.com/maps/search/?api=1&query=Cameron%20Trading%20Post%20Restaurant%20Cameron%20AZ,Classic/place-specific option
+Apr 9,Viewpoint,Desert View / Watchtower,"Desert View Watchtower, Grand Canyon, AZ",https://www.google.com/maps/search/?api=1&query=Desert%20View%20Watchtower%2C%20Grand%20Canyon%2C%20AZ,Optional approach stop
+Apr 9,Viewpoint,Grandview Point,"Grandview Point, Grand Canyon, AZ",https://www.google.com/maps/search/?api=1&query=Grandview%20Point%2C%20Grand%20Canyon%2C%20AZ,Optional approach stop
+Apr 9,Viewpoint,Lipan Point,"Lipan Point, Grand Canyon, AZ",https://www.google.com/maps/search/?api=1&query=Lipan%20Point%2C%20Grand%20Canyon%2C%20AZ,Optional approach stop
+Apr 9,Viewpoint,Mather Point,"Mather Point, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Mather%20Point%2C%20Grand%20Canyon%20Village%2C%20AZ,First main viewpoint
+Apr 9,Viewpoint,Yavapai Point,"Yavapai Point, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Yavapai%20Point%2C%20Grand%20Canyon%20Village%2C%20AZ,Preferred sunset point
+Apr 9,Hike,Bright Angel Trail,"Bright Angel Trailhead, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Bright%20Angel%20Trailhead%2C%20Grand%20Canyon%20Village%2C%20AZ,Short out-and-back option
+Apr 9,Hike,Rim Trail,"Rim Trail Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Rim%20Trail%20Grand%20Canyon%20Village%2C%20AZ,Easy walk option
+Apr 9,Hotel,Grand Canyon Plaza Hotel,"406 Canyon Plaza Ln, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=406%20Canyon%20Plaza%20Ln%2C%20Grand%20Canyon%20Village%2C%20AZ,Thursday hotel
+Apr 9,Food,We Cook Pizza & Pasta,"We Cook Pizza and Pasta Tusayan AZ",https://www.google.com/maps/search/?api=1&query=We%20Cook%20Pizza%20and%20Pasta%20Tusayan%20AZ,Best practical fit
+Apr 9,Food,Plaza Bonita,"Plaza Bonita Tusayan AZ",https://www.google.com/maps/search/?api=1&query=Plaza%20Bonita%20Tusayan%20AZ,Another flexible option
+Apr 9,Food,El Tovar Dining Room,"El Tovar Dining Room Grand Canyon Village AZ",https://www.google.com/maps/search/?api=1&query=El%20Tovar%20Dining%20Room%20Grand%20Canyon%20Village%20AZ,Classic/iconic option
+Apr 10,Viewpoint,Mather Point,"Mather Point, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Mather%20Point%2C%20Grand%20Canyon%20Village%2C%20AZ,Optional sunrise or leftover stop
+Apr 10,Viewpoint,Yavapai Point,"Yavapai Point, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Yavapai%20Point%2C%20Grand%20Canyon%20Village%2C%20AZ,Optional sunrise or leftover stop
+Apr 10,Viewpoint,South Rim Visitor Center,"Grand Canyon Visitor Center, Grand Canyon Village, AZ",https://www.google.com/maps/search/?api=1&query=Grand%20Canyon%20Visitor%20Center%2C%20Grand%20Canyon%20Village%2C%20AZ,Easy leftover stop
+Apr 10,Activity,Omega Mart / AREA15,"Omega Mart AREA15 Las Vegas NV",https://www.google.com/maps/search/?api=1&query=Omega%20Mart%20AREA15%20Las%20Vegas%20NV,Optional depending on energy
+Apr 10,Hotel,Rio Hotel & Casino,"Rio Hotel & Casino, Las Vegas, NV",https://www.google.com/maps/search/?api=1&query=Rio%20Hotel%20%26%20Casino%2C%20Las%20Vegas%2C%20NV,Friday hotel
+Apr 10,Food,Peinto Thai Kitchen,"Peinto Thai Kitchen Las Vegas NV",https://www.google.com/maps/search/?api=1&query=Peinto%20Thai%20Kitchen%20Las%20Vegas%20NV,Best practical fit
+Apr 10,Food,Lotus of Siam,"Lotus of Siam Las Vegas NV",https://www.google.com/maps/search/?api=1&query=Lotus%20of%20Siam%20Las%20Vegas%20NV,Classic/iconic Vegas Thai
+Apr 11,Airport,Harry Reid International Airport,"Harry Reid International Airport Las Vegas NV",https://www.google.com/maps/search/?api=1&query=Harry%20Reid%20International%20Airport%20Las%20Vegas%20NV,Departure airport

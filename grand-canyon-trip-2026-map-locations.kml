@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Grand Canyon Trip 2026</name>
+    <description>Hotels, viewpoints, hikes, restaurants, and activity stops for the April 2026 trip.</description>
+
+    <Folder>
+      <name>Apr 5 - Las Vegas Arrival</name>
+      <Placemark><name>SpringHill Suites Las Vegas Airport</name><description>Arrival night hotel</description><Point><coordinates>-115.2252,36.0705,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 6 - Zion</name>
+      <Placemark><name>Zion Park Motel</name><description>Zion hotel</description><Point><coordinates>-113.0018,37.1888,0</coordinates></Point></Placemark>
+      <Placemark><name>Riverside Walk</name><description>Main Zion walk</description><Point><coordinates>-112.9472,37.2857,0</coordinates></Point></Placemark>
+      <Placemark><name>Pa'rus Trail</name><description>Sunset option</description><Point><coordinates>-113.0258,37.2002,0</coordinates></Point></Placemark>
+      <Placemark><name>Thai Sapa</name><description>Best practical fit</description><Point><coordinates>-113.0016,37.1884,0</coordinates></Point></Placemark>
+      <Placemark><name>Spotted Dog Cafe</name><description>Classic/local-feel option</description><Point><coordinates>-113.0032,37.1880,0</coordinates></Point></Placemark>
+      <Placemark><name>Bit &amp; Spur</name><description>Classic/local-feel option</description><Point><coordinates>-113.0103,37.1818,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 7 - Page</name>
+      <Placemark><name>Sleep Inn &amp; Suites Page at Lake Powell</name><description>Page hotel</description><Point><coordinates>-111.4779,36.9145,0</coordinates></Point></Placemark>
+      <Placemark><name>Emerald Pools</name><description>Tuesday morning option</description><Point><coordinates>-112.9876,37.2506,0</coordinates></Point></Placemark>
+      <Placemark><name>Wahweap Overlook</name><description>Afternoon scenic stop</description><Point><coordinates>-111.4897,36.9878,0</coordinates></Point></Placemark>
+      <Placemark><name>Glen Canyon Dam Overlook</name><description>Afternoon scenic stop</description><Point><coordinates>-111.4844,36.9361,0</coordinates></Point></Placemark>
+      <Placemark><name>Horseshoe Bend</name><description>Sunset plan</description><Point><coordinates>-111.5104,36.8796,0</coordinates></Point></Placemark>
+      <Placemark><name>Thai Chili 2 Go</name><description>Best practical fit</description><Point><coordinates>-111.4557,36.9146,0</coordinates></Point></Placemark>
+      <Placemark><name>Chothika Thai Cuisine</name><description>Another good option</description><Point><coordinates>-111.4595,36.9148,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 8 - Antelope Canyon and Cameron</name>
+      <Placemark><name>Ken's Tours</name><description>Tour check-in</description><Point><coordinates>-111.4555,36.9025,0</coordinates></Point></Placemark>
+      <Placemark><name>Lower Antelope Canyon</name><description>Deluxe tour</description><Point><coordinates>-111.4590,36.9033,0</coordinates></Point></Placemark>
+      <Placemark><name>Navajo Bridge / Marble Canyon</name><description>Optional scenic add-on</description><Point><coordinates>-111.6374,36.8162,0</coordinates></Point></Placemark>
+      <Placemark><name>Cameron Trading Post Hotel</name><description>Wednesday hotel</description><Point><coordinates>-111.4125,35.8758,0</coordinates></Point></Placemark>
+      <Placemark><name>Cameron Trading Post Restaurant</name><description>Classic/place-specific option</description><Point><coordinates>-111.4125,35.8758,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 9 - Grand Canyon South Rim</name>
+      <Placemark><name>Desert View Watchtower</name><description>Optional approach stop</description><Point><coordinates>-111.8265,36.0403,0</coordinates></Point></Placemark>
+      <Placemark><name>Grandview Point</name><description>Optional approach stop</description><Point><coordinates>-111.9878,35.9994,0</coordinates></Point></Placemark>
+      <Placemark><name>Lipan Point</name><description>Optional approach stop</description><Point><coordinates>-111.8174,36.0727,0</coordinates></Point></Placemark>
+      <Placemark><name>Mather Point</name><description>First main viewpoint</description><Point><coordinates>-112.1129,36.0594,0</coordinates></Point></Placemark>
+      <Placemark><name>Yavapai Point</name><description>Preferred sunset point</description><Point><coordinates>-112.1131,36.0642,0</coordinates></Point></Placemark>
+      <Placemark><name>Bright Angel Trail</name><description>Short out-and-back option</description><Point><coordinates>-112.1417,36.0575,0</coordinates></Point></Placemark>
+      <Placemark><name>Rim Trail</name><description>Easy walk option</description><Point><coordinates>-112.1120,36.0601,0</coordinates></Point></Placemark>
+      <Placemark><name>Grand Canyon Plaza Hotel</name><description>Thursday hotel</description><Point><coordinates>-112.1385,35.9734,0</coordinates></Point></Placemark>
+      <Placemark><name>We Cook Pizza &amp; Pasta</name><description>Best practical fit</description><Point><coordinates>-112.1254,35.9730,0</coordinates></Point></Placemark>
+      <Placemark><name>Plaza Bonita</name><description>Another flexible option</description><Point><coordinates>-112.1258,35.9732,0</coordinates></Point></Placemark>
+      <Placemark><name>El Tovar Dining Room</name><description>Classic/iconic option</description><Point><coordinates>-112.1408,36.0575,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 10 - Grand Canyon Morning and Las Vegas</name>
+      <Placemark><name>South Rim Visitor Center</name><description>Easy leftover stop</description><Point><coordinates>-112.1120,36.0605,0</coordinates></Point></Placemark>
+      <Placemark><name>Omega Mart / AREA15</name><description>Optional depending on energy</description><Point><coordinates>-115.1644,36.1315,0</coordinates></Point></Placemark>
+      <Placemark><name>Rio Hotel &amp; Casino</name><description>Friday hotel</description><Point><coordinates>-115.1880,36.1162,0</coordinates></Point></Placemark>
+      <Placemark><name>Peinto Thai Kitchen</name><description>Best practical fit</description><Point><coordinates>-115.2426,36.1146,0</coordinates></Point></Placemark>
+      <Placemark><name>Lotus of Siam</name><description>Classic/iconic Vegas Thai</description><Point><coordinates>-115.1417,36.1435,0</coordinates></Point></Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Apr 11 - Departure</name>
+      <Placemark><name>Harry Reid International Airport</name><description>Departure airport</description><Point><coordinates>-115.1523,36.0840,0</coordinates></Point></Placemark>
+    </Folder>
+  </Document>
+</kml>
