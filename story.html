@@ -60,7 +60,7 @@
       <li><a href="#the-moment">A moment on the Zion shuttle</a></li>
       <li><a href="#the-admission">The surprising admission</a></li>
       <li><a href="#four-reasons">The four real reasons it worked</a></li>
-      <li><a href="#comparison">Why Google, ChatGPT, and Claude Code didn't get me here</a></li>
+      <li><a href="#comparison">Why the usual tools didn't get me here</a></li>
       <li><a href="#honest-bits">The honest bits</a></li>
       <li><a href="#takeaway">What this points to</a></li>
     </ol>
@@ -72,7 +72,7 @@
 
   <p>It was Monday afternoon. We were on the Zion National Park shuttle — my wife, my 12-year-old daughter, my 16-year-old son, and me. We'd just had lunch at a tiny Mexican place called La Fonda Grill, a completely random choice with no Yelp research involved. My wife declared it the best Mexican food she'd ever had. My kids agreed. One of those meals that becomes the memory of a whole trip.</p>
 
-  <p>My daughter grabbed my phone and typed a message to Zhu Li — the AI assistant I'd been using to plan the trip. We were passing in and out of signal on the shuttle:</p>
+  <p>My daughter grabbed my phone and typed a message to Zhu Li — the AI assistant I'd been using to plan the trip. (Zhu Li is the name I gave it — a famously hyper-competent assistant character from <em>The Legend of Korra</em>. Felt appropriate.) We were passing in and out of signal on the shuttle:</p>
 
   <blockquote>
     "We ended up having lunch at a random Mexican restaurant named La Fonda Grill, and all of us loved it. Mom said it's the best Mexican food she had ever tasted. Can you recommend more Mexican food in the next few days?"
@@ -87,7 +87,7 @@
 
   <hr class="section-divider">
 
-  <h2 id="the-admission">The surprising admission</h2>
+  <h2 id="the-admission">Wait — isn't this just ChatGPT?</h2>
 
   <p>Here's the thing I keep coming back to: <strong>Zhu Li is running on the same AI models you already have access to.</strong> Claude. GPT. GitHub Copilot. Nothing exotic. No secret sauce in the model itself.</p>
 
@@ -137,7 +137,7 @@
 
   <hr class="section-divider">
 
-  <h2 id="comparison">Why Google, ChatGPT, and Claude Code didn't get me here</h2>
+  <h2 id="comparison">Why the usual tools didn't get me here</h2>
 
   <div class="callout">
     <strong>Google</strong> finds things that exist. It doesn't synthesize them into a plan that knows your family. Every search starts from zero. You do all the assembling. It can't remember that you already booked the hotel in Page.
@@ -165,7 +165,7 @@
 
   <ul>
     <li><strong>Sessions reset between conversations.</strong> Memory is maintained through files on disk. If those files aren't updated, context is lost. We had moments mid-trip where a fresh session didn't know where we'd left off. I've since set up automatic recaps to fix this — but it's a real friction point today.</li>
-    <li><strong>It can be confidently wrong.</strong> The first version of my automated job checker returned no results when I knew there were matching roles. The script was broken. Took a second pass. The model doesn't always flag its own uncertainty.</li>
+    <li><strong>It can be confidently wrong.</strong> The first version of a job search script I had it build returned no results when I knew there were matching roles. The script was broken. Took a second pass. The model doesn't always flag its own uncertainty.</li>
     <li><strong>Machine restarts can wipe scheduled jobs.</strong> Some cron jobs lived in <code>/tmp</code> and didn't survive a reboot. Had to rebuild them. Not a model problem — an infrastructure gotcha worth knowing.</li>
     <li><strong>Human judgment still matters.</strong> Which hotel to book. Whether to wake up early for sunrise. How much energy the kids actually had. Those calls were mine. As they should be.</li>
   </ul>
@@ -184,7 +184,7 @@
 
   <p>If you want to try it: <a href="https://openclaw.ai" target="_blank" rel="noopener">openclaw.ai</a>. And if you want to see the artifact this trip produced — the itinerary, the daily pages, the food guide, the maps — it's all here on this site.</p>
 
-  <p>The Grand Canyon was spectacular. Zion was beautiful. The best meal of the trip was a random Mexican place we stumbled across by accident — no algorithm, no Yelp, no AI recommendation. Just a door we walked through. And the AI, hearing about it from my daughter on the shuttle, already knew exactly what to do with that information.</p>
+  <p>The Grand Canyon was spectacular. Zion was beautiful. The best meal of the trip was a random Mexican place we stumbled across by accident — no algorithm, no Yelp, no AI recommendation. Just a door we walked through. And Zhu Li, hearing about it from my daughter on the shuttle in a canyon with no signal, already knew exactly what to do with that information. That's the whole story, really.</p>
 
   <footer>
     Written by JJ &nbsp;·&nbsp; April 2026 &nbsp;·&nbsp;
